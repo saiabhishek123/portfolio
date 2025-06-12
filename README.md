@@ -50,7 +50,7 @@ Feel free to reach out to me through any of the following channels:
 
 * **Email:** abhishekkollipara28@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/abhishekkollipara/
-* **GitHub:** https://github.com/saiabhishek910
+* **GitHub:** https://github.com/saiabhishek123
 
 ## 📄 License
 
